@@ -1,0 +1,6 @@
+index.html:
+
+cd /d/Projekty_Git/My-projects-HTML-notebooks-
+git add index.html
+git commit -m "Shorten job change title on index page"
+git push
