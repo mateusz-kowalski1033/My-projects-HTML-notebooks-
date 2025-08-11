@@ -1,5 +1,6 @@
 ## My Projects
 
+- 💬 [Amazon Reviews Sentiment Classification with DistilBERT (5-Star Ratings), Python](NLP_project.html)
 - 🧠 [Stroke Prediction, Python](stroke_Kowalski_Ciesinska_ml_EN.html)
 - ✈️ [Aviation Delays, R](arrival_delays_Ciesinska_Kowalski_ml_EN.html)
 - 💼 [Job Change Classification, R](job_change_Ciesinska_Kowalski_ml_EN.html)
